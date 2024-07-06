@@ -1,0 +1,1 @@
+<p>The Original Roseau City Bus Stop Map was created by Rashida V. Serrant-Davis in May 2024 to provide a street map of the capital city of the Commonwealth of Dominica that lays out all the city's bus stops in relation to relevant landmarks.  This page is the web version of that map.</p>
