@@ -14,9 +14,9 @@ git push -u origin main
 </head>
 <body>
  <h1>The Original Roseau City Bus Stop Map </h1>
-      <h2>Do Dominica By Bus</h2>
+      <h2>Do Dominica By Bus!</h2>
       <!-- TODO: Add links to header image, bus stop map and map key -->
+<img src="51BooksImages/Ad Layout Rate Card Original Roseau City Bus Stop Map 2024.pdf" alt=The Original Roseau City Bus Stop (c) Map Ad Layout and Rate Card"
 <img src="https://photos.google.com/photo/AF1QipP6hodLzr_M28lb17ztjrYyYVjzeL4SV_TLnRJl" alt="The Original Roseau City Bus Stop Map (c) Title Banner">
 <img src="https://photos.google.com/search/_tra_/photo/AF1QipM4AjvxLC8G7Y1tIZ5MfEtEmhCJSgXrfRrBdryg" alt="The Original Roseau City Bus Stop Map (c) by RV Serrant-Davis">
-<img src="Roseau Bus Stop Map Key.svg">
 </body>
