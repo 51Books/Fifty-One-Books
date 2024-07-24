@@ -1,4 +1,8 @@
-<head>
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+   <meta charset="UTF-8">
+    <title>The Original Roseau City Bus Stop Map (c) Homepage</title>
   <style>
   body {
     background-color: #DBD1CA;
